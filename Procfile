@@ -1,1 +1,1 @@
-worker: python botmaaxx.py
+worker: python bot maxxx.py
